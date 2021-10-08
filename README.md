@@ -68,6 +68,8 @@ patients.
 - [x] Create the metagenome functional predictions 
 - [x] Analyse predicted metagenomes
 
+![Image of Picrust Workflow](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnbt.2676/MediaObjects/41587_2013_Article_BFnbt2676_Fig1_HTML.jpg) 
+
 # References
 
 
