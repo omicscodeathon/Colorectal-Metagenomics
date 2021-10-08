@@ -60,6 +60,7 @@ patients.
 - [ ] Chimeras Removal
 - [ ] Denoising and ASV Removal
 - [ ] Taxonomic Classification
+
 ![Image of Yaktocat](https://slidetodoc.com/presentation_image_h/287504176fd61fbf9140bef6852f2963/image-24.jpg)
 
 ## PICRUSt Workflow
