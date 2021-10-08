@@ -40,11 +40,32 @@ colorectal cancer before complicating to forms difficult to treat.
 patients.
 
 
-# Prerequisites
+# Methodology
+- Fecal samples of Colorectal Cancer Microbiome obtained from patients
+
+- Marker gene sequencing (v6 hypervariable region of 16sRNA ampilicon sequencing)
+
+- Taxonomic profiling with DADA2
+
+- Diversity Analysis with alphadiversity
+
+- Abundance and Functional Prediction with PICRUSt
+
+## DADA2 Workflow
+- [ ] Data Importing
+- [ ] Quality Inspection
+- [ ] Filtereing and Trimming
+- [ ] Error Rate Estimation
+- [ ] Dereplication
+- [ ] Chimeras Removal
+- [ ] Denoising and ASV Removal
+- [ ] Taxonomic Classification
 
 
-# Workflow
-
+## PICRUSt Workflow
+- [x] Predict 16s Copy Number abundance
+- [x] Create the metagenome functional predictions 
+- [x] Analyse predicted metagenomes
 
 # References
 
