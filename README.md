@@ -9,10 +9,10 @@ and significant international variations in the distribution of colorectal cance
 (smoking, obesity, physical inactivity, alcohol etc), an increasing number of cases is recently being reported 
 in developing nations, where it is currently being understudied.
 - Signs and symptoms include worsening constipation, blood in stool, weight loss, nausea and vommiting. 
-- However, around 50% of individuals with colorectal cancer do not report any symptom.
+- However, [around 50% of individuals with colorectal cancer do not report symptoms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6133998/).
 - This calls for a more thorough screening and detection procedure to complement current diagnostic procedures.
-- Therapeutic interventions for colorectal cancer include surgery, chemotherapy, immunotherapy, radiation 
-therapy and palliative care.
+- Therapeutic interventions for colorectal cancer include [surgery, chemotherapy, immunotherapy, radiation 
+therapy and palliative care](https://www.cancer.gov/types/colorectal/patient/colon-treatment-pdq#section/all).
 
 # Study Background
 - [x] Characterization of the 16sRNA microbiome in colorectal cancer states has the potential to aid in developing biomarkers
@@ -60,8 +60,16 @@ CRC screening
 - [x] Create the metagenome functional predictions 
 - [x] Analyse predicted metagenomes
 
-![Image of Picrust Workflow](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnbt.2676/MediaObjects/41587_2013_Article_BFnbt2676_Fig1_HTML.jpg) 
+![Image of Picrust Workflow](https://raw.githubusercontent.com/wiki/picrust/picrust2/images/PICRUSt2_flowchart.png) 
 
-# References
+## Team Members
+- Jbara Soumaya
+- Kasambula Arthur Shem
+- Jandoubi Nouha
+- Bright Opoku Asante
+- Hechmi Miriem
+- Sofia Sehli
+- Abdullah Azami Iddrissi
+
 
 
