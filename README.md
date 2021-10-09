@@ -1,5 +1,6 @@
 # Colorectal Cancer-Metagenomics
-- [x] Whole Genome and Ampilicon Sequencing Study of Metagenomes of Colorectal Cancer Patients
+   - [x] **Whole Genome and Ampilicon Sequencing Study of Metagenomes of Colorectal Cancer Patients**
+![Colorectal cancer](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41416-018-0264-x/MediaObjects/41416_2018_264_Fig1_HTML.png)
 
 # Introduction
 - Colorectal cancer is the fourth most common cancer in men and the third most common cancer in women worldwide,
