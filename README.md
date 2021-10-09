@@ -18,7 +18,7 @@ therapy and palliative care.
 for effective screening and diagnosis, and has been explored by previoius studies. The challenge however, is [the lack of
 standardization for protocols required](https://pubmed.ncbi.nlm.nih.gov/29755427/)
 - [x] [Almost 50% patients going asymptomatic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6133998/) means that detection of
-CRC is mostly late, at which time it might have metastasised([in fact, metastases in reported in almost 20% of CRC cases](https://pubmed.ncbi.nlm.nih.gov/24639430/)) and complicated into chronic forms hard to treat, and may explain why CRC remains a 
+CRC is mostly late, at which time it might have metastasised ([in fact, metastases is reported in almost 20% of CRC cases](https://pubmed.ncbi.nlm.nih.gov/24639430/)) and complicated into chronic forms hard to treat, and may explain why CRC remains a 
 leading cause of cancer mortality and morbidity globally.
 - [x] This study seeks to contribute to previous ones aimed at helping develop tools to aid in early screening and detection of CRC
 by analyzing 16sRNA sequences of CRC gut microbiome.
@@ -52,7 +52,7 @@ CRC screening
 - [ ] Denoising and ASV Removal
 - [ ] Taxonomic Classification
 
-![Image of Yaktocat](https://slidetodoc.com/presentation_image_h/287504176fd61fbf9140bef6852f2963/image-24.jpg)
+![DADA2 Workflow](https://slidetodoc.com/presentation_image_h/287504176fd61fbf9140bef6852f2963/image-24.jpg)
 
 ## PICRUSt Workflow
 - [x] Predict 16s Copy Number abundance
