@@ -20,7 +20,7 @@ names(filtRs) <- sample.names
 #Trimming of the sequences:
 out <- filterAndTrim(fnFs, filtFs, fnRs, filtRs, truncLen=c(290,200), maxN=0, maxEE=c(2,2), truncQ=2, rm.phix=TRUE, compress=TRUE, multithread=TRUE, verbose=TRUE)
 
-out # This will spits out the number of the input and output reads.
+out # This will spit out the number of the input and output reads.
 
 ##Generate the Filtered Profiles
 #Perform Quality check and generate new profiles for filtered sequences:
