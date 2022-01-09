@@ -1,7 +1,7 @@
 ##16s rRNA-seq analysis of CRC metagenomes
 #Quality check: R
-path <- "~/github/data/16s_crc/fastqs_16s"
-setwd(path)
+path <- "/home/laitanawe/github/data/16s_crc/fastqs_16s"
+setwd("/home/laitanawe/github/Colorectal-Metagenomics/data")
 list.files(path=path, pattern=".fastq")
 
 #Assign Sample Names:

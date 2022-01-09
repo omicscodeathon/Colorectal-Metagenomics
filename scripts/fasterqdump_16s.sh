@@ -4,9 +4,9 @@
 # module load singularity
 
 rdp_train_path="/opt/rdp/rdp_train_set_16.fa.gz"
-runid_file="~/github/data/16s_crc_accessions.txt"
+runid_file="/home/laitanawe/github/Colorectal-Metagenomics/data/16s_crc_accessions.txt"
 container="~/github/containers/16s.sif"
-fastq_path="~/github/data/16s_crc/fastqs_16s"
+fastq_path="/home/laitanawe/github/data/16s_crc/fastqs_16s"
 cpus=12
 
 
