@@ -10,12 +10,12 @@ sample.names <- c("SRR15182562", "SRR15182563", "SRR15182564", "SRR15182565", "S
 
 library(dada2)
 
-#fnFs <- file.path()
-#fnRs <- file.path()
+fnFs <- sort(list.files(fastq_path, pattern = "_1.fastq"))
+fnRs <- sort(list.files(fastq_path, pattern = "_2.fastq"))
 
 #Plot Quality Control charts:
 plotQualityProfile(fnFs[1:4])
-plotQualityProfile(fnFs[1:4])
+plotQualityProfile(fnRs[1:4])
 
 #Assign names of the Filtered sequences:
 filtFs <- file.path(fastq_path, "filtered", paste0(sample.names, "_1_filt.fastq.gz"))
