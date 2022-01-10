@@ -10,8 +10,11 @@ sample.names <- c("SRR15182562", "SRR15182563", "SRR15182564", "SRR15182565", "S
 
 library(dada2)
 
-fnFs <- sort(list.files(fastq_path, pattern = "_1.fastq"))
-fnRs <- sort(list.files(fastq_path, pattern = "_2.fastq"))
+#fnFs <- sort(list.files(fastq_path, pattern = "_1.fastq"))
+#fnRs <- sort(list.files(fastq_path, pattern = "_2.fastq"))
+
+fnFs <- sort(file.path(fastq_path, paste0(sample.names, "_1.fastq")))
+fnRs <- sort(file.path(fastq_path, paste0(sample.names, "_2.fastq")))
 
 #Plot Quality Control charts:
 plotQualityProfile(fnFs[1:4])
