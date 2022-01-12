@@ -1,0 +1,2 @@
+#errF <- learnErrors(filtFs, multithread=TRUE)
+101751140 total bases in 350866 reads from 20 samples was used for learning the error rates.
