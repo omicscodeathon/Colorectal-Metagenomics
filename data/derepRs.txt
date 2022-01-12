@@ -1,0 +1,141 @@
+#derepRs <- derepFastq(filtRs, verbose=TRUE)
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182562_2_filt.fastq.gz
+Encountered 5744 unique sequences from 10202 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182563_2_filt.fastq.gz
+Encountered 5928 unique sequences from 10941 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182564_2_filt.fastq.gz
+Encountered 4185 unique sequences from 7162 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182565_2_filt.fastq.gz
+Encountered 5873 unique sequences from 18868 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182566_2_filt.fastq.gz
+Encountered 8315 unique sequences from 20776 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182567_2_filt.fastq.gz
+Encountered 10571 unique sequences from 22315 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182568_2_filt.fastq.gz
+Encountered 9473 unique sequences from 24353 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182569_2_filt.fastq.gz
+Encountered 12470 unique sequences from 24267 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182570_2_filt.fastq.gz
+Encountered 9950 unique sequences from 19780 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182571_2_filt.fastq.gz
+Encountered 5660 unique sequences from 10984 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182572_2_filt.fastq.gz
+Encountered 8362 unique sequences from 17062 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182573_2_filt.fastq.gz
+Encountered 9074 unique sequences from 19495 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182574_2_filt.fastq.gz
+Encountered 9605 unique sequences from 17981 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182575_2_filt.fastq.gz
+Encountered 3762 unique sequences from 7636 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182576_2_filt.fastq.gz
+Encountered 10237 unique sequences from 21340 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182577_2_filt.fastq.gz
+Encountered 7734 unique sequences from 20759 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182578_2_filt.fastq.gz
+Encountered 9824 unique sequences from 20010 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182579_2_filt.fastq.gz
+Encountered 9632 unique sequences from 17378 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182580_2_filt.fastq.gz
+Encountered 11095 unique sequences from 21098 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182581_2_filt.fastq.gz
+Encountered 7777 unique sequences from 18459 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182582_2_filt.fastq.gz
+Encountered 8362 unique sequences from 17102 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182583_2_filt.fastq.gz
+Encountered 8679 unique sequences from 16665 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182584_2_filt.fastq.gz
+Encountered 7399 unique sequences from 15174 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182585_2_filt.fastq.gz
+Encountered 9963 unique sequences from 18217 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182586_2_filt.fastq.gz
+Encountered 5017 unique sequences from 9204 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182587_2_filt.fastq.gz
+Encountered 8344 unique sequences from 16147 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182588_2_filt.fastq.gz
+Encountered 10466 unique sequences from 21618 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182589_2_filt.fastq.gz
+Encountered 15627 unique sequences from 43579 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182590_2_filt.fastq.gz
+Encountered 14908 unique sequences from 34394 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182591_2_filt.fastq.gz
+Encountered 27975 unique sequences from 63267 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182592_2_filt.fastq.gz
+Encountered 8290 unique sequences from 15210 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182593_2_filt.fastq.gz
+Encountered 14898 unique sequences from 42980 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182594_2_filt.fastq.gz
+Encountered 5427 unique sequences from 13387 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182595_2_filt.fastq.gz
+Encountered 5756 unique sequences from 13911 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182596_2_filt.fastq.gz
+Encountered 6005 unique sequences from 15455 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182597_2_filt.fastq.gz
+Encountered 5844 unique sequences from 10416 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182598_2_filt.fastq.gz
+Encountered 5765 unique sequences from 8231 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182599_2_filt.fastq.gz
+Encountered 11085 unique sequences from 27591 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182600_2_filt.fastq.gz
+Encountered 8426 unique sequences from 23164 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182601_2_filt.fastq.gz
+Encountered 13441 unique sequences from 32852 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182602_2_filt.fastq.gz
+Encountered 14758 unique sequences from 31854 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182603_2_filt.fastq.gz
+Encountered 10745 unique sequences from 22051 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182604_2_filt.fastq.gz
+Encountered 10099 unique sequences from 25859 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182605_2_filt.fastq.gz
+Encountered 10656 unique sequences from 31870 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182606_2_filt.fastq.gz
+Encountered 10827 unique sequences from 25641 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182607_2_filt.fastq.gz
+Encountered 29946 unique sequences from 68474 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182608_2_filt.fastq.gz
+Encountered 6281 unique sequences from 10941 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182609_2_filt.fastq.gz
+Encountered 18981 unique sequences from 49822 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182610_2_filt.fastq.gz
+Encountered 18776 unique sequences from 48424 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182611_2_filt.fastq.gz
+Encountered 17886 unique sequences from 42648 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182612_2_filt.fastq.gz
+Encountered 23543 unique sequences from 30845 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182613_2_filt.fastq.gz
+Encountered 53292 unique sequences from 78912 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182614_2_filt.fastq.gz
+Encountered 31074 unique sequences from 41544 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182615_2_filt.fastq.gz
+Encountered 25499 unique sequences from 47340 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182616_2_filt.fastq.gz
+Encountered 23214 unique sequences from 55550 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182617_2_filt.fastq.gz
+Encountered 24279 unique sequences from 54524 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182618_2_filt.fastq.gz
+Encountered 18834 unique sequences from 52177 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182619_2_filt.fastq.gz
+Encountered 5794 unique sequences from 10488 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182620_2_filt.fastq.gz
+Encountered 21657 unique sequences from 45164 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182621_2_filt.fastq.gz
+Encountered 24487 unique sequences from 54107 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182622_2_filt.fastq.gz
+Encountered 21068 unique sequences from 44821 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182623_2_filt.fastq.gz
+Encountered 21513 unique sequences from 53213 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182624_2_filt.fastq.gz
+Encountered 8273 unique sequences from 20914 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182625_2_filt.fastq.gz
+Encountered 8693 unique sequences from 17742 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182626_2_filt.fastq.gz
+Encountered 8546 unique sequences from 19823 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182627_2_filt.fastq.gz
+Encountered 36306 unique sequences from 98531 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182628_2_filt.fastq.gz
+Encountered 32464 unique sequences from 94820 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182629_2_filt.fastq.gz
+Encountered 5948 unique sequences from 11359 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182630_2_filt.fastq.gz
+Encountered 5147 unique sequences from 9533 total sequences read.
+Dereplicating sequence entries in Fastq file: /home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s/filtered/SRR15182631_2_filt.fastq.gz
+Encountered 6378 unique sequences from 12231 total sequences read.
