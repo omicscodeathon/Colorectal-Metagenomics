@@ -2,7 +2,7 @@
 #Quality check: R, xml2, httpuv, latticeExtra, dada2
 fastq_path <- "/home/laitanawe/my_shared_data_folder/16s_crc/fastqs_16s"
 rdp_train_path="/opt/rdp/rdp_train_set_16.fa.gz"
-setwd("/home/laitanawe/github/Colorectal-Metagenomics/data")
+setwd("/home/laitanawe/my_shared_data_folder/github/Colorectal-Metagenomics/data/")
 list.files(path=fastq_path, pattern=".fastq")
 
 #Assign Sample Names:
