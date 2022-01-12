@@ -1,0 +1,4 @@
+#ps
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 15545 taxa and 70 samples ]
+tax_table()   Taxonomy Table:    [ 15545 taxa by 6 taxonomic ranks ]
