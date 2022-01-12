@@ -69,3 +69,18 @@
 8264 paired-reads (in 680 unique pairings) successfully merged out of 9005 (in 1123 pairings) input.
 6443 paired-reads (in 612 unique pairings) successfully merged out of 7531 (in 1161 pairings) input.
 9027 paired-reads (in 1524 unique pairings) successfully merged out of 9978 (in 2061 pairings) input.
+
+
+#dim(seqtab)
+[1]    70 96716
+
+#table(nchar(getSequences(seqtab)))
+
+  298   379   380   416   422   423   424   438   439   440   441   442   443   444 
+   17     1     5     1     2     1    73     6  2110 11725  4868  2761  2447   416 
+  445   446   447   448   449   450   451   452   453   454   455   456   457   458 
+  917   816   350   103   504   131    13    45     3    19    14   274   296   610 
+  459   460   461   462   463   464   465   466   467   468   469   471   474   475 
+ 1804 33505  1712    49   120  2387 24382  4172    38     2     1     1     2     8 
+  477   478 
+    4     1 
