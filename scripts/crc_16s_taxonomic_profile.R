@@ -81,9 +81,6 @@ unname(head(taxa))
 library(phyloseq)
 library(ggplot2)
 
-dadaFs <- dada(derepFs, err=errF, multithread=TRUE)
-dadaRs <- dada(derepRs, err=errR, multithread=TRUE)
-
 ##Phyloseq step for 16s rRNA analysis:
 cases <- c(rep("SRR15182562", 2), rep("SRR15182563", 2), rep("SRR15182564", 2), rep("SRR15182565", 2), rep("SRR15182566", 2), rep("SRR15182567", 2), rep("SRR15182568", 2), rep("SRR15182569", 2), rep("SRR15182570", 2), rep("SRR15182571", 2), rep("SRR15182572", 2), rep("SRR15182573", 2), rep("SRR15182574", 2), rep("SRR15182575", 2), rep("SRR15182576", 2), rep("SRR15182577", 2), rep("SRR15182578", 2), rep("SRR15182579", 2), rep("SRR15182580", 2), rep("SRR15182581", 2), rep("SRR15182582", 2), rep("SRR15182583", 2), rep("SRR15182584", 2), rep("SRR15182585", 2), rep("SRR15182586", 2), rep("SRR15182587", 2), rep("SRR15182588", 2), rep("SRR15182589", 2), rep("SRR15182590", 2), rep("SRR15182591", 2), rep("SRR15182592", 2), rep("SRR15182593", 2), rep("SRR15182594", 2), rep("SRR15182595", 2), rep("SRR15182596", 2), rep("SRR15182597", 2), rep("SRR15182598", 2), rep("SRR15182599", 2), rep("SRR15182600", 2), rep("SRR15182601", 2), rep("SRR15182602", 2), rep("SRR15182603", 2), rep("SRR15182604", 2), rep("SRR15182605", 2), rep("SRR15182606", 2), rep("SRR15182607", 2), rep("SRR15182608", 2), rep("SRR15182609", 2), rep("SRR15182610", 2), rep("SRR15182611", 2), rep("SRR15182612", 2), rep("SRR15182613", 2), rep("SRR15182614", 2), rep("SRR15182615", 2), rep("SRR15182616", 2), rep("SRR15182617", 2), rep("SRR15182618", 2), rep("SRR15182619", 2), rep("SRR15182620", 2), rep("SRR15182621", 2), rep("SRR15182622", 2), rep("SRR15182623", 2), rep("SRR15182624", 2), rep("SRR15182625", 2), rep("SRR15182626", 2), rep("SRR15182627", 2), rep("SRR15182628", 2), rep("SRR15182629", 2), rep("SRR15182630", 2), rep("SRR15182631", 2))
 
