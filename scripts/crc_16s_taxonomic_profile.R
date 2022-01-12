@@ -100,5 +100,6 @@ theme_set(theme_bw())
 plot_richness(ps, measures=c("Shannon", "Simpson"))
 
 ##Genus Level Profile
-##Generate the Genus level plot
+##Generate the plots: Genus, Phylum level
 plot_bar(ps, fill="Genus")
+plot_bar(ps, fill="Phylum")
