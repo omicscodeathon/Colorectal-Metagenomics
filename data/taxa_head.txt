@@ -1,0 +1,16 @@
+## See the first few lines of the Taxanomy Assignment
+#unname(head(taxa))
+     [,1]       [,2]              [,3]               [,4]                
+[1,] "Bacteria" "Firmicutes"      "Bacilli"          "Lactobacillales"   
+[2,] "Bacteria" "Verrucomicrobia" "Verrucomicrobiae" "Verrucomicrobiales"
+[3,] "Bacteria" "Verrucomicrobia" "Verrucomicrobiae" "Verrucomicrobiales"
+[4,] "Bacteria" "Firmicutes"      "Bacilli"          "Lactobacillales"   
+[5,] "Bacteria" "Firmicutes"      "Clostridia"       "Clostridiales"     
+[6,] "Bacteria" "Firmicutes"      "Bacilli"          "Lactobacillales"   
+     [,5]                  [,6]           
+[1,] "Streptococcaceae"    "Streptococcus"
+[2,] "Verrucomicrobiaceae" "Akkermansia"  
+[3,] "Verrucomicrobiaceae" "Akkermansia"  
+[4,] "Streptococcaceae"    "Streptococcus"
+[5,] "Ruminococcaceae"     "Gemmiger"     
+[6,] "Streptococcaceae"    "Streptococcus"
