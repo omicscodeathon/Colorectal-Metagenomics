@@ -63,13 +63,11 @@ CRC screening
 ![Image of Picrust Workflow](https://raw.githubusercontent.com/wiki/picrust/picrust2/images/PICRUSt2_flowchart.png) 
 
 ## Team Members
-- Jbara Soumaya
+- Soumaya Jbara
 - Kasambula Arthur Shem
-- Jandoubi Nouha
 - Bright Opoku Asante
-- Hechmi Miriem
-- Sofia Sehli
-- Abdullah Azami Iddrissi
+- Jandoubi Nouha
+- Olaitan I. Awe
 
 
 
